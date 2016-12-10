@@ -1,6 +1,6 @@
-MICROSOFT SOFTWARE LICENSE TERMS
+**MICROSOFT SOFTWARE LICENSE TERMS**
 
-MICROSOFT WINDOWS POWERSHELL EXTENSIONS FOR MICROSOFT SQL SERVER
+**MICROSOFT WINDOWS POWERSHELL EXTENSIONS FOR MICROSOFT SQL SERVER**
 
 These license terms are an agreement between Microsoft Corporation (or
 based on where you live, one of its affiliates) and you. Please read
