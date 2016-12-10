@@ -83,9 +83,9 @@ those terms apply.
 
 13. **LIMITATION ON AND EXCLUSION OF REMEDIES AND DAMAGES. YOU CAN RECOVER FROM MICROSOFT AND ITS SUPPLIERS ONLY DIRECT DAMAGES UP TO U.S. $5.00. YOU CANNOT RECOVER ANY OTHER DAMAGES, INCLUDING CONSEQUENTIAL, LOST PROFITS, SPECIAL, INDIRECT OR INCIDENTAL DAMAGES.**
 
-This limitation applies to
-- anything related to the software, services, content (including code) on third party Internet sites, or third party programs; and
-- claims for breach of contract, breach of warranty, guarantee or condition, strict liability, negligence, or other tort to the extent
- permitted by applicable law.
+  This limitation applies to
+  - anything related to the software, services, content (including code) on third party Internet sites, or third party programs; and
+  - claims for breach of contract, breach of warranty, guarantee or condition, strict liability, negligence, or other tort to the extent
+    permitted by applicable law.
 
-It also applies even if Microsoft knew or should have known about the possibility of the damages. The above limitation or exclusion may not apply to you because your country may not allow the exclusion or limitation of incidental, consequential or other damages.
+  It also applies even if Microsoft knew or should have known about the possibility of the damages. The above limitation or exclusion may not apply to you because your country may not allow the exclusion or limitation of incidental, consequential or other damages.
