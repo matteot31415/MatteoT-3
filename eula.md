@@ -19,45 +19,25 @@ those terms apply.
 
 **BY USING THE SOFTWARE, YOU ACCEPT THESE TERMS. IF YOU DO NOT ACCEPT THEM, DO NOT USE THE SOFTWARE.**
 
-If you comply with these license terms, you have the rights below.
+----------------------------------------------------------------------------------------------------
+**If you comply with these license terms, you have the rights below.**
 
-**INSTALLATION AND USE RIGHTS.** You may install and use any number of copies of the software on your devices to design, develop and test your programs.
+1. **INSTALLATION AND USE RIGHTS.** You may install and use any number of copies of the software on your devices to design, develop and test your programs.
 
------------------------------------------------------------------------------
+2. ** ADDITIONAL LICENSING REQUIREMENTS AND/OR USE RIGHTS.**
 
-ADDITIONAL LICENSING REQUIREMENTS AND/OR USE RIGHTS.
-====================================================
+  1. **Distributable Code.**
+    1. **Right to Use and Distribute. If you comply with the terms below:**
+      - You may copy and distribute the object code form of the software ("**Distributable Code**") in programs you develop; and
+      - You may permit distributors of your programs to copy and distribute the Distributable Code as part of those programs.
 
-Distributable Code.
--------------------
-
-### Right to Use and Distribute. If you comply with the terms below:
-
--   You may copy and distribute the object code form of the software
-    ("**Distributable Code**") in programs you develop; and
-
--   You may permit distributors of your programs to copy and distribute
-    the Distributable Code as part of those programs.
-
-### Distribution Requirements. For any Distributable Code you distribute, you must
-
--   add significant primary functionality to it in your programs;
-
--   for any Distributable Code having a filename extension of .lib,
-    distribute only the results of running such Distributable Code
-    through a linker with your program;
-
--   distribute Distributable Code included in a setup program only as
-    part of that setup program without modification;
-
--   require distributors and external end users to agree to terms that
-    protect it at least as much as this agreement;
-
--   display your valid copyright notice on your programs; and
-
--   indemnify, defend, and hold harmless Microsoft from any claims,
-    including attorneys’ fees, related to the distribution or use of
-    your programs.
+    2. **Distribution Requirements. For any Distributable Code you distribute, you must**
+      - add significant primary functionality to it in your programs;
+      - for any Distributable Code having a filename extension of .lib, distribute only the results of running such Distributable Code  through a linker with your program;
+      - distribute Distributable Code included in a setup program only as part of that setup program without modification;
+      - require distributors and external end users to agree to terms that protect it at least as much as this agreement;
+      - display your valid copyright notice on your programs; and 
+      - indemnify, defend, and hold harmless Microsoft from any claims, including attorneys’ fees, related to the distribution or use of your programs.
 
 ### Distribution Restrictions. You may not
 
