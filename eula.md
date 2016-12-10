@@ -10,23 +10,20 @@ them. They apply to the software named above, which includes the media
 on which you received it, if any. The terms also apply to any Microsoft
 
 -   updates,
-
 -   supplements,
-
 -   Internet-based services, and
-
 -   support services
 
 for this software, unless other terms accompany those items. If so,
 those terms apply.
 
-BY USING THE SOFTWARE, YOU ACCEPT THESE TERMS. IF YOU DO NOT ACCEPT
-THEM, DO NOT USE THE SOFTWARE.
+**BY USING THE SOFTWARE, YOU ACCEPT THESE TERMS. IF YOU DO NOT ACCEPT THEM, DO NOT USE THE SOFTWARE.**
 
 If you comply with these license terms, you have the rights below.
 
-INSTALLATION AND USE RIGHTS. You may install and use any number of copies of the software on your devices to design, develop and test your programs.
-====================================================================================================================================================
+**INSTALLATION AND USE RIGHTS.** You may install and use any number of copies of the software on your devices to design, develop and test your programs.
+
+-----------------------------------------------------------------------------
 
 ADDITIONAL LICENSING REQUIREMENTS AND/OR USE RIGHTS.
 ====================================================
