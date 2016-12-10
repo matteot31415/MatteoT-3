@@ -32,15 +32,15 @@ ADDITIONAL LICENSING REQUIREMENTS AND/OR USE RIGHTS.
 Distributable Code.
 -------------------
 
-### Right to Use and Distribute. If you comply with the terms below: {#right-to-use-and-distribute.-if-you-comply-with-the-terms-below .Heading3Bold}
+### Right to Use and Distribute. If you comply with the terms below:
 
 -   You may copy and distribute the object code form of the software
-    (“**Distributable Code**”) in programs you develop; and
+    ("**Distributable Code**") in programs you develop; and
 
 -   You may permit distributors of your programs to copy and distribute
     the Distributable Code as part of those programs.
 
-### Distribution Requirements. For any Distributable Code you distribute, you must {#distribution-requirements.-for-any-distributable-code-you-distribute-you-must .Heading3Bold}
+### Distribution Requirements. For any Distributable Code you distribute, you must
 
 -   add significant primary functionality to it in your programs;
 
@@ -60,7 +60,7 @@ Distributable Code.
     including attorneys’ fees, related to the distribution or use of
     your programs.
 
-### Distribution Restrictions. You may not {#distribution-restrictions.-you-may-not .Heading3Bold}
+### Distribution Restrictions. You may not
 
 -   alter any copyright, trademark or patent notice in the Distributable
     Code;
@@ -105,8 +105,8 @@ SCOPE OF LICENSE. The software is licensed, not sold. Unless applicable law give
 
 -   use the software for commercial software hosting services.
 
-THIRD PARTY NOTICES. The software may include third party components with separate legal notices or governed by other agreements, as may be described in the ThirdPartyNotices file accompanying the software. Even if such components are governed by other agreements, the disclaimers and the limitations on and exclusions of damages below also apply.
-===========================================================================================================================================================================================================================================================================================================================================================
+**THIRD PARTY NOTICES.** The software may include third party components with separate legal notices or governed by other agreements, as may be described in the ThirdPartyNotices file accompanying the software. Even if such components are governed by other agreements, the disclaimers and the limitations on and exclusions of damages below also apply.
+
 
 BACKUP COPY. You may make one backup copy of the software. You may use it only to reinstall the software.
 =========================================================================================================
